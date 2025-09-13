@@ -308,8 +308,7 @@ margin-bottom: 72px;
 
      .team-icons {
       fill: #f4f4fd;
-        width: 16px;
-        height: 16px;
+        
      }
 
      .bg-icon {
@@ -510,9 +509,8 @@ margin-bottom: 16px;
      }
 
      .team-icons-footer {
-      fill: #f4f4fd;
-      width: 24px;
-      height: 24px;
+      fill:  #f4f4fd;
+      
      }
 
 
